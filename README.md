@@ -15,7 +15,7 @@ Im Spiel, benutze den Befehl `/function aprilfools:chest`, um eine Truhe zu erze
 
 Zauberstäbe lassen sich momentan nicht herstellen. Alle Zauberstäbe haben momentan nur englische Namen.
 
-Für eine Dokumentation der meisten Features dieses Datenpakets siehe den [Aprilscherz-Artikel im deutschsprachigen Minecraft Wiki](https://minecraft-de.gamepedia.com/Minecraft Wiki:Aprilscherze/Zauberstab).
+Für eine Dokumentation der meisten Features dieses Datenpakets siehe den [Aprilscherz-Artikel im deutschsprachigen Minecraft Wiki](https://minecraft-de.gamepedia.com/Minecraft_Wiki:Aprilscherze/Zauberstab).
 
 ### Anmerkungen
 
@@ -37,7 +37,7 @@ Ingame, use the command `/function aprilfools:chest` to create a chest containin
 
 Staffs currently aren't craftable. All staffs currently only have English labels.
 
-For a documentation of most features of this data pack you can read the [april fools article in the German Minecraft wiki](https://minecraft-de.gamepedia.com/Minecraft Wiki:Aprilscherze/Zauberstab) (which you can translate with a machine translation service if you wish to do so).
+For a documentation of most features of this data pack you can read the [april fools article in the German Minecraft wiki](https://minecraft-de.gamepedia.com/Minecraft_Wiki:Aprilscherze/Zauberstab) (which you can translate with a machine translation service if you wish to do so).
 
 ### Notes
 
