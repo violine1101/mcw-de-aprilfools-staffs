@@ -3,6 +3,8 @@
 
 ## Deutsch / German
 
+**WICHTIG:** Damit das Datenpaket funktioniert, wird mindestens Minecraft 18w43a (1.14) benötigt. Datenpaket und Ressourcenpaket wurden allerdings nur in Minecraft 19w13b getestet.
+
 ### Installation
 
 Klicke auf **[Releases](https://github.com/violine1101/mcw-de-aprilfools-staffs/releases)** und suche die neueste Version. Dort kannst du dir das aktuelle Ressourcen- und das aktuelle Datenpaket herunterladen.
@@ -24,6 +26,8 @@ Das Datenpaket **funktioniert momentan _nicht_ im Mehrspielermodus!** Es gibt au
 Zudem sind nicht alle Features, die im Wiki-Artikel, im Datenpaket implementiert. Insbesondere können Kreaturen keine Zauberstäbe aufheben und benutzen, sondern nur Spieler.
 
 ## English
+
+**IMPORTANT:** In order for the data pack to function, you need at least Minecraft 18w43a (1.14). However, the data pack and the resource pack have only been tested in Minecraft 19w13b.
 
 ### Installation
 
