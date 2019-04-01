@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "aprilfools:item/diamond_water_staff"
+    }
+}

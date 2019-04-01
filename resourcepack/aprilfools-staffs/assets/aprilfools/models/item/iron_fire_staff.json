@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "aprilfools:item/iron_fire_staff"
+    }
+}

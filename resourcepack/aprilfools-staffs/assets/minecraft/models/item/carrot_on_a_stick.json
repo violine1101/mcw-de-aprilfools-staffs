@@ -1,0 +1,29 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data":1}, "model": "aprilfools:item/wooden_ender_staff"},
+        { "predicate": {"custom_model_data":2}, "model": "aprilfools:item/iron_ender_staff"},
+        { "predicate": {"custom_model_data":3}, "model": "aprilfools:item/diamond_ender_staff"},
+        { "predicate": {"custom_model_data":4}, "model": "aprilfools:item/wooden_fire_staff"},
+        { "predicate": {"custom_model_data":5}, "model": "aprilfools:item/iron_fire_staff"},
+        { "predicate": {"custom_model_data":6}, "model": "aprilfools:item/diamond_fire_staff"},
+        { "predicate": {"custom_model_data":7}, "model": "aprilfools:item/wooden_ice_staff"},
+        { "predicate": {"custom_model_data":8}, "model": "aprilfools:item/iron_ice_staff"},
+        { "predicate": {"custom_model_data":9}, "model": "aprilfools:item/diamond_ice_staff"},
+        { "predicate": {"custom_model_data":10}, "model": "aprilfools:item/wooden_mushroom_staff"},
+        { "predicate": {"custom_model_data":11}, "model": "aprilfools:item/iron_mushroom_staff"},
+        { "predicate": {"custom_model_data":12}, "model": "aprilfools:item/diamond_mushroom_staff"},
+        { "predicate": {"custom_model_data":13}, "model": "aprilfools:item/wooden_nether_staff"},
+        { "predicate": {"custom_model_data":14}, "model": "aprilfools:item/iron_nether_staff"},
+        { "predicate": {"custom_model_data":15}, "model": "aprilfools:item/diamond_nether_staff"},
+        { "predicate": {"custom_model_data":16}, "model": "aprilfools:item/wooden_poison_staff"},
+        { "predicate": {"custom_model_data":17}, "model": "aprilfools:item/iron_poison_staff"},
+        { "predicate": {"custom_model_data":18}, "model": "aprilfools:item/diamond_poison_staff"},
+        { "predicate": {"custom_model_data":19}, "model": "aprilfools:item/wooden_water_staff"},
+        { "predicate": {"custom_model_data":20}, "model": "aprilfools:item/iron_water_staff"},
+        { "predicate": {"custom_model_data":21}, "model": "aprilfools:item/diamond_water_staff"}
+    ]
+}
