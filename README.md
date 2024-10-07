@@ -9,7 +9,7 @@
 
 Klicke auf **[Releases](https://github.com/violine1101/mcw-de-aprilfools-staffs/releases)** und suche die neueste Version. Dort kannst du dir das aktuelle Ressourcen- und das aktuelle Datenpaket herunterladen.
 
-Für eine Anleitung, wie man Ressourcenpakete installiert, kannst du dir den [Artikel im Minecraft Wiki](https://minecraft-de.gamepedia.com/Ressourcenpaket#Installation_und_Deinstallation) dazu durchlesen. Für das Datenpaket gibt es [eine Anleitung im Wiki](https://minecraft-de.gamepedia.com/Datenpaket#Installation_und_Deinstallation).
+Für eine Anleitung, wie man Ressourcenpakete installiert, kannst du dir den [Artikel im Minecraft Wiki](https://de.minecraft.wiki/w/Ressourcenpaket#Installation_und_Deinstallation) dazu durchlesen. Für das Datenpaket gibt es [eine Anleitung im Wiki](https://de.minecraft.wiki/w/Datenpaket#Installation_und_Deinstallation).
 
 ### Benutzung
 
@@ -17,7 +17,7 @@ Im Spiel, benutze den Befehl `/function aprilfools:chest`, um eine Truhe zu erze
 
 Zauberstäbe lassen sich momentan nicht herstellen. Alle Zauberstäbe haben momentan nur englische Namen.
 
-Für eine Dokumentation der meisten Features dieses Datenpakets siehe den [Aprilscherz-Artikel im deutschsprachigen Minecraft Wiki](https://minecraft-de.gamepedia.com/Minecraft_Wiki:Aprilscherze/Zauberstab).
+Für eine Dokumentation der meisten Features dieses Datenpakets siehe den [Aprilscherz-Artikel im deutschsprachigen Minecraft Wiki](https://de.minecraft.wiki/w/Minecraft_Wiki:Aprilscherze/Zauberstab).
 
 ### Anmerkungen
 
@@ -33,7 +33,7 @@ Zudem sind nicht alle Features, die im Wiki-Artikel, im Datenpaket implementiert
 
 Click at **[releases](https://github.com/violine1101/mcw-de-aprilfools-staffs/releases)** and look for the latest version. There you can download the most up-to-date resource and data packs.
 
-For a tutorial on how to install a resource pack, you can read the [tutorial on the Minecraft Wiki](https://minecraft.gamepedia.com/Tutorials/Loading_a_resource_pack). There's also an article about [how to install data packs](https://minecraft.gamepedia.com/Tutorials/Installing_a_data_pack) there.
+For a tutorial on how to install a resource pack, you can read the [tutorial on the Minecraft Wiki](https://minecraft.wiki/w/Tutorials/Loading_a_resource_pack). There's also an article about [how to install data packs](https://minecraft.wiki/w/Tutorials/Installing_a_data_pack) there.
 
 ### Usage
 
@@ -41,7 +41,7 @@ Ingame, use the command `/function aprilfools:chest` to create a chest containin
 
 Staffs currently aren't craftable. All staffs currently only have English labels.
 
-For a documentation of most features of this data pack you can read the [april fools article in the German Minecraft wiki](https://minecraft-de.gamepedia.com/Minecraft_Wiki:Aprilscherze/Zauberstab) (which you can translate with a machine translation service if you wish to do so).
+For a documentation of most features of this data pack you can read the [april fools article in the German Minecraft wiki](https://de.minecraft.wiki/w/Minecraft_Wiki:Aprilscherze/Zauberstab) (which you can translate with a machine translation service if you wish to do so).
 
 ### Notes
 
